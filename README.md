@@ -1,2 +1,2 @@
 # AJAX-AND-FETCH-JAVASCRIPT
-A project to demonstrate how to use AJAX AND FETCH using  JavaScript 
+A project to demonstrate on AJAX AND FETCH Application using  JavaScript 
